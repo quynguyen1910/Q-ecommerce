@@ -1,0 +1,46 @@
+# Node modules thư mục
+/node_modules
+
+# Laravel Mix generated file
+/public/hot
+
+# Public storage
+/public/storage
+
+# Storage folder & cache keys
+/storage/*.key
+
+# Composer vendor thư mục
+/vendor
+
+# Environment files
+/.env
+/.env.backup
+
+# PHPUnit result cache
+/.phpunit.result.cache
+
+# Docker Compose override file
+docker-compose.override.yml
+
+# Laravel Homestead
+Homestead.json
+Homestead.yaml
+
+# Debug logs
+npm-debug.log
+yarn-error.log
+
+# IDE/Editor specific files
+/.idea
+/.vscode
+
+# Other logs and caches
+/storage/logs/*.log
+/storage/framework/cache/*
+/storage/framework/sessions/*
+/storage/framework/views/*
+
+# Additional environment files
+/.env.testing
+/.env.local
