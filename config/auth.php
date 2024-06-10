@@ -62,6 +62,8 @@ return [
     'providers' => [
         'users' => [
             'driver' => 'eloquent',
+            // 'model' => App\Models\Admin\Accounts::class,
+            // 'password' => 'matkhau_tk',
             'model' => App\Models\User::class,
         ],
 
